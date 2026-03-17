@@ -1,0 +1,41 @@
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Compiled binaries & intermediates
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.lst
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Python (PlatformIO internals)
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+# PCB design outputs
+pcb_design/*.zip
+pcb_design/Gerber/
+
+# Claude
+.claude/
